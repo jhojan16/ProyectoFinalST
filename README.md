@@ -159,3 +159,32 @@ En main.html se realiza la pagina web al gusto del desarrollador, de preferencia
       </body>
       </html>
 
+## Comprobar funcionamiento Datadog
+
+En el apartado de infraestructura debe aparecer el nombre de la maquina en la que se instaló el agent de haproxy (ver imagen).
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/16cf7ebd-e80d-4d24-9285-3cd9aedc0f41)
+
+En el apartado de dashboard, aparecen varios por default o tambien hay la opción de crear uno nuevo.
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/6ac0fb54-0dad-440d-8f38-5b22c7efc190)
+
+Las graficas de este dashboard nos enseñan el trafico de la red.
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/76c1f735-d64e-42bb-a1cc-a170f4bb3ab0)
+
+## Comprobar funcionamiento haproxy
+
+Ingresar atraves del buscador a la ip de la maquina "haproxy" (192.168.50.5)
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/760a6249-237a-4efb-a418-248ee30ff65a)
+
+De esta manera debe cargar alguna de las dos paginas web que realizaste en pasos anteriores:
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/35cf4c06-41a9-4bd2-84d1-dcd1b51e4645)
+
+![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/253d54be-115f-497c-be11-a6e639373e9a)
+
+
+
+

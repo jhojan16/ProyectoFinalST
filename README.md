@@ -63,6 +63,8 @@ Posteriormente en la maquina haproxy instalar la integración de haproxy que ofr
 
 	DD_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DD_SITE="us5.datadoghq.com" DD_APM_INSTRUMENTATION_ENABLED=host bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script_agent7.sh)"
 
+ ![image](https://github.com/jhojan16/ProyectoFinalST/assets/147114192/958e9e6c-f492-416e-8b78-aff408737a4f)
+
 Para confirmar que los servicios estén funcionando, realizar los siguientes comandos:
 
 Datadog

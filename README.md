@@ -159,6 +159,10 @@ En main.html se realiza la pagina web al gusto del desarrollador, de preferencia
       </body>
       </html>
 
+Asegurarse de que el servicio httpd está activo
+
+	sudo service httpd restart
+
 ## Comprobar funcionamiento Datadog
 
 En el apartado de infraestructura debe aparecer el nombre de la maquina en la que se instaló el agent de haproxy (ver imagen).

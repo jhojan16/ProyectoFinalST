@@ -28,8 +28,7 @@ Archivo de configuración del haproxy --> Sudo vim /etc/haproxy/haproxy.cfg
 
 Agregar las siguientes líneas en la parte de abajo del archivo haproxy.cfg:
 
-listen stats # Define a listen section called "stats"
-
+	listen stats # Define a listen section called "stats"
 	bind :9000 # Listen on port 9000
 	mode http
  	stats enable  # Enable stats page
